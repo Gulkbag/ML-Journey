@@ -1,0 +1,358 @@
+Predictions: 
+
+Predicted Grade :  2.8510306560325516 Student Attribs :  [8 6 2 2 2] Actual Grade :  5
+Predicted Grade :  7.749057535143965 Student Attribs :  [8 9 2 0 2] Actual Grade :  8
+Predicted Grade :  14.984820455505163 Student Attribs :  [16 15  2  0  2] Actual Grade :  15
+Predicted Grade :  19.828547975171062 Student Attribs :  [18 18  1  0  8] Actual Grade :  18
+Predicted Grade :  6.040567653210635 Student Attribs :  [9 8 4 0 2] Actual Grade :  8
+Predicted Grade :  3.4830918632872896 Student Attribs :  [ 6  5  1  3 16] Actual Grade :  5
+Predicted Grade :  2.866629083163687 Student Attribs :  [6 5 2 0 4] Actual Grade :  6
+Predicted Grade :  15.386370301272551 Student Attribs :  [15 15  2  0  4] Actual Grade :  15
+Predicted Grade :  9.793512817316396 Student Attribs :  [ 7 10  2  0  6] Actual Grade :  10
+Predicted Grade :  12.502109274229861 Student Attribs :  [14 13  2  0  2] Actual Grade :  13
+Predicted Grade :  6.297968577022315 Student Attribs :  [8 9 1 3 0] Actual Grade :  10
+Predicted Grade :  11.951981072363854 Student Attribs :  [14 13  4  0  0] Actual Grade :  14
+Predicted Grade :  7.241322377644222 Student Attribs :  [10  9  2  0  0] Actual Grade :  9
+Predicted Grade :  11.305141606937369 Student Attribs :  [11 12  1  0  0] Actual Grade :  10
+Predicted Grade :  8.482677968281871 Student Attribs :  [11 10  2  0  0] Actual Grade :  10
+Predicted Grade :  15.697244366459943 Student Attribs :  [18 16  3  0  0] Actual Grade :  16
+Predicted Grade :  15.974043585182136 Student Attribs :  [15 14  2  1 20] Actual Grade :  13
+Predicted Grade :  7.9382367574466475 Student Attribs :  [9 9 2 0 4] Actual Grade :  10
+Predicted Grade :  11.623697542134432 Student Attribs :  [ 8 12  1  0  0] Actual Grade :  12
+Predicted Grade :  7.704669611798806 Student Attribs :  [10  9  3  0  4] Actual Grade :  9
+Predicted Grade :  13.701803093481852 Student Attribs :  [11 13  1  1 10] Actual Grade :  13
+Predicted Grade :  -4.780360431953473 Student Attribs :  [9 0 2 0 0] Actual Grade :  0
+Predicted Grade :  10.60707137686414 Student Attribs :  [12 10  2  1 18] Actual Grade :  10
+Predicted Grade :  7.241322377644222 Student Attribs :  [10  9  2  0  0] Actual Grade :  0
+Predicted Grade :  7.832051445714292 Student Attribs :  [10  9  2  0  4] Actual Grade :  9
+Predicted Grade :  18.73207862858014 Student Attribs :  [16 18  2  0  0] Actual Grade :  19
+Predicted Grade :  15.24157900231503 Student Attribs :  [12 15  1  0  0] Actual Grade :  15
+Predicted Grade :  -4.334422662840925 Student Attribs :  [6 0 1 0 0] Actual Grade :  0
+Predicted Grade :  16.31116483569204 Student Attribs :  [15 16  3  0  2] Actual Grade :  18
+Predicted Grade :  12.380414431345157 Student Attribs :  [12 12  1  0  8] Actual Grade :  12
+Predicted Grade :  12.714479897694568 Student Attribs :  [12 13  2  0  2] Actual Grade :  13
+Predicted Grade :  14.901826544934833 Student Attribs :  [14 15  2  0  0] Actual Grade :  15
+Predicted Grade :  10.527133250454304 Student Attribs :  [10 11  2  0  4] Actual Grade :  9
+Predicted Grade :  9.791517938337499 Student Attribs :  [11 10  1  0  8] Actual Grade :  10
+Predicted Grade :  13.644961423144833 Student Attribs :  [10 13  1  0  6] Actual Grade :  13
+Predicted Grade :  13.743464864867514 Student Attribs :  [15 14  2  0  2] Actual Grade :  14
+Predicted Grade :  7.554922594791105 Student Attribs :  [7 9 1 1 2] Actual Grade :  8
+Predicted Grade :  7.9351809732861565 Student Attribs :  [ 9  8  2  1 16] Actual Grade :  7
+Predicted Grade :  5.181103852240156 Student Attribs :  [10  8  1  3  3] Actual Grade :  7
+Predicted Grade :  5.2007619083403736 Student Attribs :  [7 7 4 0 4] Actual Grade :  6
+Predicted Grade :  10.671924549411829 Student Attribs :  [13 11  3  0  8] Actual Grade :  11
+Predicted Grade :  11.24524415243986 Student Attribs :  [10 11  1  0  8] Actual Grade :  10
+Predicted Grade :  10.210572194236137 Student Attribs :  [ 9 11  3  0  2] Actual Grade :  11
+Predicted Grade :  4.732458956135609 Student Attribs :  [7 7 2 1 2] Actual Grade :  7
+Predicted Grade :  10.125583404686914 Student Attribs :  [11 11  2  0  2] Actual Grade :  11
+Predicted Grade :  8.801233903478934 Student Attribs :  [ 8 10  2  0  0] Actual Grade :  12
+Predicted Grade :  7.8009434874308035 Student Attribs :  [9 9 1 2 8] Actual Grade :  9
+Predicted Grade :  7.310706690951887 Student Attribs :  [ 9  7  2  0 18] Actual Grade :  6
+Predicted Grade :  15.303376390702224 Student Attribs :  [13 15  2  0  2] Actual Grade :  16
+Predicted Grade :  8.610059802197355 Student Attribs :  [11 10  1  0  0] Actual Grade :  10
+Predicted Grade :  9.633192962239024 Student Attribs :  [13 11  2  1  3] Actual Grade :  11
+Predicted Grade :  13.3495968891098 Student Attribs :  [10 13  1  0  4] Actual Grade :  14
+Predicted Grade :  7.6428722234116115 Student Attribs :  [9 9 2 0 2] Actual Grade :  10
+Predicted Grade :  8.946025202436457 Student Attribs :  [11 10  3  0  4] Actual Grade :  10
+Predicted Grade :  5.49206681340633 Student Attribs :  [8 7 1 1 7] Actual Grade :  8
+Predicted Grade :  18.73207862858014 Student Attribs :  [16 18  2  0  0] Actual Grade :  18
+Predicted Grade :  14.79564123320248 Student Attribs :  [15 15  2  0  0] Actual Grade :  15
+Predicted Grade :  13.515584710250453 Student Attribs :  [14 13  1  0  8] Actual Grade :  13
+Predicted Grade :  9.604333595013713 Student Attribs :  [ 6 10  2  0  4] Actual Grade :  10
+Predicted Grade :  10.231768716419268 Student Attribs :  [10 11  2  0  2] Actual Grade :  12
+Predicted Grade :  6.106152098738924 Student Attribs :  [8 8 2 0 0] Actual Grade :  0
+Predicted Grade :  10.964493060476078 Student Attribs :  [12 12  4  0  1] Actual Grade :  12
+Predicted Grade :  10.431501751824124 Student Attribs :  [14 12  2  1  0] Actual Grade :  12
+Predicted Grade :  19.15260219196785 Student Attribs :  [11 12  2  0 54] Actual Grade :  11
+Predicted Grade :  14.901826544934833 Student Attribs :  [14 15  2  0  0] Actual Grade :  15
+Predicted Grade :  4.737414674185787 Student Attribs :  [7 7 3 0 0] Actual Grade :  8
+Predicted Grade :  14.901826544934833 Student Attribs :  [14 15  2  0  0] Actual Grade :  15
+Predicted Grade :  5.893781475274217 Student Attribs :  [10  8  2  0  0] Actual Grade :  9
+Predicted Grade :  12.991443932517262 Student Attribs :  [12 12  2  0 13] Actual Grade :  13
+Predicted Grade :  7.347507689376576 Student Attribs :  [9 9 2 0 0] Actual Grade :  10
+Predicted Grade :  9.158395825901167 Student Attribs :  [ 9 10  3  0  4] Actual Grade :  10
+Predicted Grade :  4.320101585186766 Student Attribs :  [7 7 2 3 5] Actual Grade :  7
+Predicted Grade :  4.437094422100573 Student Attribs :  [7 7 2 1 0] Actual Grade :  0
+Predicted Grade :  9.957600704567362 Student Attribs :  [11 11  1  0  0] Actual Grade :  10
+Predicted Grade :  4.154272531036184 Student Attribs :  [ 5  5  2  0 12] Actual Grade :  5
+Predicted Grade :  13.977032010515353 Student Attribs :  [14 14  1  0  2] Actual Grade :  14
+Predicted Grade :  12.654582443197063 Student Attribs :  [11 12  2  0 10] Actual Grade :  13
+Predicted Grade :  3.4755049383668215 Student Attribs :  [8 7 2 3 0] Actual Grade :  0
+Predicted Grade :  7.590567742944991 Student Attribs :  [7 9 2 2 6] Actual Grade :  8
+Predicted Grade :  13.423848024488857 Student Attribs :  [14 13  3  1 12] Actual Grade :  13
+Predicted Grade :  21.471453411576107 Student Attribs :  [18 19  1  0 10] Actual Grade :  19
+Predicted Grade :  6.40605382264436 Student Attribs :  [ 7  8  2  3 10] Actual Grade :  10
+Predicted Grade :  12.949946977232097 Student Attribs :  [11 12  2  0 12] Actual Grade :  11
+Predicted Grade :  5.224595686504216 Student Attribs :  [7 8 2 3 2] Actual Grade :  9
+Predicted Grade :  3.161993617198723 Student Attribs :  [6 5 2 0 6] Actual Grade :  6
+Predicted Grade :  11.602406074862094 Student Attribs :  [11 11  2  0 12] Actual Grade :  11
+Predicted Grade :  -4.977456211377616 Student Attribs :  [4 0 1 2 0] Actual Grade :  0
+Predicted Grade :  13.78406573107158 Student Attribs :  [15 14  4  0  4] Actual Grade :  14
+Predicted Grade :  11.494320829240051 Student Attribs :  [12 12  1  0  2] Actual Grade :  14
+Predicted Grade :  12.797473808264895 Student Attribs :  [14 13  2  0  4] Actual Grade :  13
+Predicted Grade :  10.42094793872195 Student Attribs :  [11 11  2  0  4] Actual Grade :  11
+Predicted Grade :  18.102648628195695 Student Attribs :  [16 17  1  0  4] Actual Grade :  18
+Predicted Grade :  15.555249090473202 Student Attribs :  [16 15  1  0  5] Actual Grade :  16
+Predicted Grade :  11.44697206682361 Student Attribs :  [10 12  2  1  4] Actual Grade :  12
+Predicted Grade :  9.179592348084297 Student Attribs :  [10 10  2  0  4] Actual Grade :  10
+Predicted Grade :  12.214331665115294 Student Attribs :  [12 11  1  0 16] Actual Grade :  11
+Predicted Grade :  7.8029383664097 Student Attribs :  [5 9 2 2 6] Actual Grade :  7
+Predicted Grade :  11.42963247279286 Student Attribs :  [14 12  1  0  3] Actual Grade :  12
+Predicted Grade :  8.990413125781616 Student Attribs :  [ 9 10  2  0  2] Actual Grade :  10
+Predicted Grade :  11.612959887964266 Student Attribs :  [14 12  2  1  8] Actual Grade :  12
+Predicted Grade :  9.957600704567362 Student Attribs :  [11 11  1  0  0] Actual Grade :  12
+Predicted Grade :  13.81284917817518 Student Attribs :  [14 12  2  0 20] Actual Grade :  13
+Predicted Grade :  1.975579763008401 Student Attribs :  [6 5 1 1 0] Actual Grade :  0
+Predicted Grade :  8.990413125781616 Student Attribs :  [ 9 10  2  0  2] Actual Grade :  9
+Predicted Grade :  8.588863280014227 Student Attribs :  [10 10  2  0  0] Actual Grade :  10
+Predicted Grade :  9.391962971549006 Student Attribs :  [ 8 10  2  0  4] Actual Grade :  9
+Predicted Grade :  10.985689582659209 Student Attribs :  [13 12  3  0  1] Actual Grade :  12
+Predicted Grade :  9.724033558919524 Student Attribs :  [12 11  2  0  0] Actual Grade :  12
+Predicted Grade :  4.383048774734344 Student Attribs :  [7 6 1 0 5] Actual Grade :  7
+Predicted Grade :  9.179592348084297 Student Attribs :  [10 10  2  0  4] Actual Grade :  11
+Predicted Grade :  13.009844431729606 Student Attribs :  [12 13  2  0  4] Actual Grade :  13
+Predicted Grade :  3.6878755618315306 Student Attribs :  [6 7 2 3 0] Actual Grade :  0
+Predicted Grade :  7.787498706268639 Student Attribs :  [ 9  8  2  1 15] Actual Grade :  8
+Predicted Grade :  18.753275150763272 Student Attribs :  [17 18  1  0  0] Actual Grade :  18
+Predicted Grade :  8.567666757831095 Student Attribs :  [ 9 10  3  0  0] Actual Grade :  0
+Predicted Grade :  5.572264701005871 Student Attribs :  [9 8 2 1 0] Actual Grade :  0
+Predicted Grade :  9.913212781222207 Student Attribs :  [13 11  2  0  2] Actual Grade :  11
+Predicted Grade :  15.930811512107779 Student Attribs :  [17 16  2  0  0] Actual Grade :  17
+Predicted Grade :  7.059730080262009 Student Attribs :  [ 7  7  1  0 14] Actual Grade :  5
+Predicted Grade :  10.44404439479477 Student Attribs :  [12 10  2  0 14] Actual Grade :  11
+Predicted Grade :  7.356994548186734 Student Attribs :  [ 7  6  2  0 26] Actual Grade :  6
+Predicted Grade :  8.907419215211288 Student Attribs :  [ 7 10  2  0  0] Actual Grade :  11
+Predicted Grade :  13.894038099945027 Student Attribs :  [12 14  1  0  0] Actual Grade :  15
+Predicted Grade :  6.7585137390956955 Student Attribs :  [ 6  7  2  1 15] Actual Grade :  8
+Predicted Grade :  7.581074835024413 Student Attribs :  [8 9 1 0 0] Actual Grade :  8
+Predicted Grade :  8.762532971164557 Student Attribs :  [8 9 1 0 8] Actual Grade :  10
+Predicted Grade :  4.600121404169945 Student Attribs :  [7 7 2 2 4] Actual Grade :  9
+Predicted Grade :  14.880630022751705 Student Attribs :  [13 15  3  0  0] Actual Grade :  15
+Predicted Grade :  10.821341934218536 Student Attribs :  [10  9  3  1 28] Actual Grade :  9
+Predicted Grade :  18.708887227418117 Student Attribs :  [19 18  2  0  2] Actual Grade :  18
+Predicted Grade :  8.907324270122082 Student Attribs :  [11  9  2  0 12] Actual Grade :  9
+Predicted Grade :  16.121985613389356 Student Attribs :  [14 16  3  0  0] Actual Grade :  16
+Predicted Grade :  0.09415146290534349 Student Attribs :  [7 4 1 2 0] Actual Grade :  0
+Predicted Grade :  15.617714642357575 Student Attribs :  [ 9  9  2  0 56] Actual Grade :  8
+Predicted Grade :  8.520317995414654 Student Attribs :  [ 7 10  4  1  2] Actual Grade :  10
+Predicted Grade :  18.2861408594676 Student Attribs :  [19 18  3  0  0] Actual Grade :  19
+Predicted Grade :  4.107984673801339 Student Attribs :  [7 6 2 0 4] Actual Grade :  6
+Predicted Grade :  9.557950792689661 Student Attribs :  [12 10  2  0  8] Actual Grade :  11
+Predicted Grade :  11.15846318472844 Student Attribs :  [10 11  4  0 10] Actual Grade :  11
+Predicted Grade :  12.843761665499743 Student Attribs :  [12 12  2  0 12] Actual Grade :  11
+Predicted Grade :  7.476789457181749 Student Attribs :  [ 9  8  2  0 10] Actual Grade :  8
+Predicted Grade :  14.046416323823019 Student Attribs :  [13 12  1  0 20] Actual Grade :  12
+Predicted Grade :  13.55428564256483 Student Attribs :  [14 14  2  0  0] Actual Grade :  14
+Predicted Grade :  6.233533932654408 Student Attribs :  [8 8 1 0 0] Actual Grade :  11
+Predicted Grade :  14.753248188836219 Student Attribs :  [13 15  4  0  0] Actual Grade :  15
+Predicted Grade :  13.089877503228648 Student Attribs :  [10 13  2  1  6] Actual Grade :  13
+Predicted Grade :  15.30138151172333 Student Attribs :  [17 15  1  0  4] Actual Grade :  16
+Predicted Grade :  7.178369138986223 Student Attribs :  [ 9  7  2  1 20] Actual Grade :  8
+Predicted Grade :  16.332361357875172 Student Attribs :  [16 16  2  0  2] Actual Grade :  17
+Predicted Grade :  14.562074087554643 Student Attribs :  [16 15  3  0  0] Actual Grade :  15
+Predicted Grade :  11.071574461289531 Student Attribs :  [12 12  2  0  0] Actual Grade :  11
+Predicted Grade :  6.0829606975768975 Student Attribs :  [11  8  2  0  2] Actual Grade :  8
+Predicted Grade :  7.370604145449395 Student Attribs :  [10  8  2  0 10] Actual Grade :  8
+Predicted Grade :  14.79564123320248 Student Attribs :  [15 15  2  0  0] Actual Grade :  15
+Predicted Grade :  19.198221885705514 Student Attribs :  [17 17  2  0 13] Actual Grade :  17
+Predicted Grade :  11.706691452704758 Student Attribs :  [10 12  1  0  2] Actual Grade :  12
+Predicted Grade :  3.437057718131727 Student Attribs :  [6 5 1 0 7] Actual Grade :  6
+Predicted Grade :  10.625636692176982 Student Attribs :  [15 12  3  0  0] Actual Grade :  14
+Predicted Grade :  -6.081702373067419 Student Attribs :  [12  0  3  2  0] Actual Grade :  0
+Predicted Grade :  14.886317013782486 Student Attribs :  [11 14  1  0  6] Actual Grade :  14
+Predicted Grade :  -5.51134360911067 Student Attribs :  [5 0 1 3 0] Actual Grade :  0
+Predicted Grade :  7.409305077763772 Student Attribs :  [10  9  3  0  2] Actual Grade :  9
+Predicted Grade :  6.106152098738924 Student Attribs :  [8 8 2 0 0] Actual Grade :  9
+Predicted Grade :  9.896807160988756 Student Attribs :  [ 9 10  3  0  9] Actual Grade :  9
+Predicted Grade :  12.64889545216628 Student Attribs :  [13 13  4  0  4] Actual Grade :  12
+Predicted Grade :  5.644704798474027 Student Attribs :  [8 7 2 0 6] Actual Grade :  9
+Predicted Grade :  11.786629579114596 Student Attribs :  [12 11  1  1 16] Actual Grade :  12
+Predicted Grade :  -4.5467932863056335 Student Attribs :  [8 0 1 0 0] Actual Grade :  0
+Predicted Grade :  -4.886545743685827 Student Attribs :  [10  0  2  0  0] Actual Grade :  0
+Predicted Grade :  12.714479897694568 Student Attribs :  [12 13  2  0  2] Actual Grade :  12
+Predicted Grade :  10.14877480584894 Student Attribs :  [ 8 11  2  0  0] Actual Grade :  11
+Predicted Grade :  9.30697418199978 Student Attribs :  [10 10  1  0  4] Actual Grade :  10
+Predicted Grade :  13.13912619953478 Student Attribs :  [12 12  2  0 14] Actual Grade :  12
+Predicted Grade :  10.042589494116587 Student Attribs :  [ 9 11  2  0  0] Actual Grade :  12
+Predicted Grade :  7.13903187878045 Student Attribs :  [7 8 4 0 8] Actual Grade :  8
+Predicted Grade :  16.313960858662824 Student Attribs :  [16 15  2  0 11] Actual Grade :  15
+Predicted Grade :  12.336026508000003 Student Attribs :  [14 12  2  0 10] Actual Grade :  11
+Predicted Grade :  9.725933492809212 Student Attribs :  [12 10  3  0 10] Actual Grade :  12
+Predicted Grade :  7.432496478925797 Student Attribs :  [7 9 3 0 0] Actual Grade :  8
+Predicted Grade :  6.212337410471278 Student Attribs :  [7 8 2 0 0] Actual Grade :  0
+Predicted Grade :  15.365173779089423 Student Attribs :  [14 15  3  0  4] Actual Grade :  16
+Predicted Grade :  7.984524614681494 Student Attribs :  [ 7  8  2  0 12] Actual Grade :  8
+Predicted Grade :  7.559878312841283 Student Attribs :  [7 9 2 0 0] Actual Grade :  8
+Predicted Grade :  13.26281592139838 Student Attribs :  [10 13  4  0  6] Actual Grade :  13
+Predicted Grade :  11.7241009177468 Student Attribs :  [13 12  3  0  6] Actual Grade :  12
+Predicted Grade :  12.171773804648534 Student Attribs :  [ 7 10  2  1 25] Actual Grade :  11
+Predicted Grade :  7.525714570397305 Student Attribs :  [ 6  8  1  3 16] Actual Grade :  8
+Predicted Grade :  9.687327505584042 Student Attribs :  [ 8 10  2  0  6] Actual Grade :  10
+Predicted Grade :  14.38048179017243 Student Attribs :  [13 13  2  0 14] Actual Grade :  14
+Predicted Grade :  6.396560914723782 Student Attribs :  [8 8 1 1 4] Actual Grade :  8
+Predicted Grade :  10.664001943179946 Student Attribs :  [ 8  8  1  0 30] Actual Grade :  8
+Predicted Grade :  11.747292318908825 Student Attribs :  [10 12  3  0  4] Actual Grade :  12
+Predicted Grade :  14.984820455505163 Student Attribs :  [16 15  2  0  2] Actual Grade :  15
+Predicted Grade :  6.274134798858475 Student Attribs :  [8 8 3 0 2] Actual Grade :  10
+Predicted Grade :  12.820665209426922 Student Attribs :  [11 13  2  0  2] Actual Grade :  14
+Predicted Grade :  4.615719831301085 Student Attribs :  [5 6 2 0 6] Actual Grade :  6
+Predicted Grade :  11.494320829240051 Student Attribs :  [12 12  1  0  2] Actual Grade :  11
+Predicted Grade :  14.123818188451773 Student Attribs :  [13 14  3  0  4] Actual Grade :  14
+Predicted Grade :  13.260821042419485 Student Attribs :  [14 13  3  0  8] Actual Grade :  14
+Predicted Grade :  13.429699831620132 Student Attribs :  [15 13  2  0  9] Actual Grade :  15
+Predicted Grade :  10.125583404686914 Student Attribs :  [11 11  2  0  2] Actual Grade :  10
+Predicted Grade :  7.409305077763772 Student Attribs :  [10  9  3  0  2] Actual Grade :  10
+Predicted Grade :  12.297325575685623 Student Attribs :  [14 11  1  0 18] Actual Grade :  13
+Predicted Grade :  16.166278591645302 Student Attribs :  [16 15  2  0 10] Actual Grade :  15
+Predicted Grade :  13.156630609666026 Student Attribs :  [11 13  4  0  6] Actual Grade :  14
+Predicted Grade :  3.644637439646754 Student Attribs :  [7 6 1 0 0] Actual Grade :  0
+Predicted Grade :  9.827163086491387 Student Attribs :  [11 10  2  1 12] Actual Grade :  10
+Predicted Grade :  10.145883837788947 Student Attribs :  [11 11  3  0  3] Actual Grade :  11
+Predicted Grade :  12.419115363659536 Student Attribs :  [12 13  2  0  0] Actual Grade :  14
+Predicted Grade :  6.40151663277396 Student Attribs :  [8 8 2 0 2] Actual Grade :  8
+Predicted Grade :  17.257155892294655 Student Attribs :  [16 17  3  0  0] Actual Grade :  17
+Predicted Grade :  11.09946181931203 Student Attribs :  [10 10  2  0 17] Actual Grade :  10
+Predicted Grade :  4.043131501253652 Student Attribs :  [ 6  5  1  1 14] Actual Grade :  5
+Predicted Grade :  13.787852788212673 Student Attribs :  [13 14  1  0  0] Actual Grade :  14
+Predicted Grade :  15.472255179902875 Student Attribs :  [14 15  1  0  3] Actual Grade :  16
+Predicted Grade :  9.011609647964745 Student Attribs :  [10 10  1  0  2] Actual Grade :  10
+Predicted Grade :  8.671857190584554 Student Attribs :  [12 10  2  0  2] Actual Grade :  11
+Predicted Grade :  12.419115363659536 Student Attribs :  [12 13  2  0  0] Actual Grade :  13
+Predicted Grade :  9.220193214288361 Student Attribs :  [10 10  4  0  6] Actual Grade :  11
+Predicted Grade :  10.228712932258777 Student Attribs :  [10 10  2  1 14] Actual Grade :  9
+Predicted Grade :  14.486667101904784 Student Attribs :  [12 13  2  0 14] Actual Grade :  12
+Predicted Grade :  -5.120112889333666 Student Attribs :  [11  0  3  0  0] Actual Grade :  0
+Predicted Grade :  16.92499035983493 Student Attribs :  [16 15  3  0 16] Actual Grade :  15
+Predicted Grade :  8.352335295295102 Student Attribs :  [ 7 10  3  1  0] Actual Grade :  10
+Predicted Grade :  -4.868310060573979 Student Attribs :  [7 0 1 1 0] Actual Grade :  0
+Predicted Grade :  12.820665209426922 Student Attribs :  [11 13  2  0  2] Actual Grade :  13
+Predicted Grade :  4.7586111963689195 Student Attribs :  [8 7 2 0 0] Actual Grade :  8
+Predicted Grade :  12.608294585962215 Student Attribs :  [13 13  2  0  2] Actual Grade :  13
+Predicted Grade :  11.348538496112221 Student Attribs :  [12 11  2  0 11] Actual Grade :  11
+Predicted Grade :  8.884227814049261 Student Attribs :  [10 10  2  0  2] Actual Grade :  10
+Predicted Grade :  9.005593024732974 Student Attribs :  [ 6  9  1  2 14] Actual Grade :  8
+Predicted Grade :  8.161161194013527 Student Attribs :  [10 10  2  1  0] Actual Grade :  0
+Predicted Grade :  16.81979608227288 Student Attribs :  [14 16  1  0  3] Actual Grade :  16
+Predicted Grade :  1.7208160951774314 Student Attribs :  [6 5 3 1 0] Actual Grade :  0
+Predicted Grade :  10.208577315257243 Student Attribs :  [13 11  2  0  4] Actual Grade :  11
+Predicted Grade :  4.970981819833629 Student Attribs :  [6 7 2 0 0] Actual Grade :  0
+Predicted Grade :  11.957668063394639 Student Attribs :  [12 12  2  0  6] Actual Grade :  12
+Predicted Grade :  16.861293037558042 Student Attribs :  [15 16  1  0  4] Actual Grade :  15
+Predicted Grade :  14.419182722486811 Student Attribs :  [13 14  3  0  6] Actual Grade :  14
+Predicted Grade :  8.116608454567872 Student Attribs :  [ 9  9  2  2 11] Actual Grade :  9
+Predicted Grade :  19.151037939389575 Student Attribs :  [18 18  4  0  6] Actual Grade :  18
+Predicted Grade :  3.348212000430122 Student Attribs :  [3 5 2 1 8] Actual Grade :  5
+Predicted Grade :  12.608294585962215 Student Attribs :  [13 13  2  0  2] Actual Grade :  13
+Predicted Grade :  6.9865587098132504 Student Attribs :  [10  9  4  0  0] Actual Grade :  0
+Predicted Grade :  15.006016977688292 Student Attribs :  [17 15  1  0  2] Actual Grade :  15
+Predicted Grade :  15.891214490712306 Student Attribs :  [16 15  3  0  9] Actual Grade :  16
+Predicted Grade :  5.141601775933889 Student Attribs :  [5 8 2 3 0] Actual Grade :  7
+Predicted Grade :  16.16437865775562 Student Attribs :  [16 16  1  0  0] Actual Grade :  15
+Predicted Grade :  14.673050301236684 Student Attribs :  [12 14  3  0  7] Actual Grade :  14
+Predicted Grade :  -4.567989808488765 Student Attribs :  [7 0 2 0 0] Actual Grade :  0
+Predicted Grade :  6.907256911294807 Student Attribs :  [10  8  1  0  6] Actual Grade :  11
+Predicted Grade :  8.334099612183255 Student Attribs :  [10 10  4  0  0] Actual Grade :  10
+Predicted Grade :  14.970055007971704 Student Attribs :  [13 11  3  1 40] Actual Grade :  11
+Predicted Grade :  14.038829398902548 Student Attribs :  [15 14  2  0  4] Actual Grade :  14
+Predicted Grade :  11.57731473981038 Student Attribs :  [14 12  1  0  4] Actual Grade :  11
+Predicted Grade :  1.6146307834450777 Student Attribs :  [7 5 3 1 0] Actual Grade :  0
+Predicted Grade :  12.765298895689392 Student Attribs :  [ 8  9  1  1 38] Actual Grade :  8
+Predicted Grade :  2.972814394896041 Student Attribs :  [5 5 2 0 4] Actual Grade :  6
+Predicted Grade :  20.09702899599219 Student Attribs :  [19 19  4  0  4] Actual Grade :  20
+Predicted Grade :  9.202688804157118 Student Attribs :  [11  9  2  0 14] Actual Grade :  9
+Predicted Grade :  20.88072434350603 Student Attribs :  [18 19  1  0  6] Actual Grade :  19
+Predicted Grade :  4.656963074506965 Student Attribs :  [8 7 2 3 8] Actual Grade :  8
+Predicted Grade :  3.216935353646054 Student Attribs :  [7 6 1 1 0] Actual Grade :  0
+Predicted Grade :  15.492555613004905 Student Attribs :  [14 15  2  0  4] Actual Grade :  15
+Predicted Grade :  8.928615737394418 Student Attribs :  [ 8 10  1  0  0] Actual Grade :  11
+Predicted Grade :  5.245792208687346 Student Attribs :  [8 8 1 3 2] Actual Grade :  10
+Predicted Grade :  12.185548218011697 Student Attribs :  [13 13  3  0  0] Actual Grade :  13
+Predicted Grade :  7.497985979364879 Student Attribs :  [10  8  1  0 10] Actual Grade :  9
+Predicted Grade :  10.01939809295456 Student Attribs :  [12 11  2  0  2] Actual Grade :  12
+Predicted Grade :  4.8859930302844035 Student Attribs :  [8 7 1 0 0] Actual Grade :  6
+Predicted Grade :  15.091005767237517 Student Attribs :  [15 15  2  0  2] Actual Grade :  16
+Predicted Grade :  10.723899397677453 Student Attribs :  [ 9  9  1  0 22] Actual Grade :  9
+Predicted Grade :  12.440311885842666 Student Attribs :  [13 13  1  0  0] Actual Grade :  12
+Predicted Grade :  5.1156083026906565 Student Attribs :  [ 6  6  2  1 13] Actual Grade :  8
+Predicted Grade :  8.147716412851361 Student Attribs :  [10  9  3  0  7] Actual Grade :  9
+Predicted Grade :  17.023588746646816 Student Attribs :  [17 17  4  0  0] Actual Grade :  18
+Predicted Grade :  8.707337522637944 Student Attribs :  [ 9  9  2  2 15] Actual Grade :  9
+Predicted Grade :  10.82249778448934 Student Attribs :  [10 11  2  0  6] Actual Grade :  11
+Predicted Grade :  9.702837036736392 Student Attribs :  [11 11  3  0  0] Actual Grade :  10
+Predicted Grade :  17.554420360219382 Student Attribs :  [16 16  4  0 12] Actual Grade :  16
+Predicted Grade :  8.044422069179001 Student Attribs :  [8 9 2 0 4] Actual Grade :  10
+Predicted Grade :  14.531055025249943 Student Attribs :  [10 13  1  0 12] Actual Grade :  12
+Predicted Grade :  7.749057535143965 Student Attribs :  [8 9 2 0 2] Actual Grade :  10
+Predicted Grade :  12.416059579499045 Student Attribs :  [12 12  2  1 12] Actual Grade :  13
+Predicted Grade :  11.366938995324567 Student Attribs :  [12 12  2  0  2] Actual Grade :  11
+Predicted Grade :  15.930811512107779 Student Attribs :  [17 16  2  0  0] Actual Grade :  16
+Predicted Grade :  13.004888713679426 Student Attribs :  [12 13  1  1  6] Actual Grade :  14
+Predicted Grade :  21.727220924215665 Student Attribs :  [17 18  2  0 21] Actual Grade :  18
+Predicted Grade :  10.42094793872195 Student Attribs :  [11 11  2  0  4] Actual Grade :  11
+Predicted Grade :  9.61784824718717 Student Attribs :  [13 11  2  0  0] Actual Grade :  10
+Predicted Grade :  7.956472440558494 Student Attribs :  [6 9 1 1 4] Actual Grade :  8
+Predicted Grade :  17.04957617077963 Student Attribs :  [15 16  3  0  7] Actual Grade :  15
+Predicted Grade :  4.994078275906448 Student Attribs :  [ 7  6  2  0 10] Actual Grade :  6
+Predicted Grade :  9.830218870651878 Student Attribs :  [11 11  2  0  0] Actual Grade :  10
+Predicted Grade :  10.231768716419268 Student Attribs :  [10 11  2  0  2] Actual Grade :  11
+Predicted Grade :  13.977032010515353 Student Attribs :  [14 14  1  0  2] Actual Grade :  13
+Predicted Grade :  19.130737506287538 Student Attribs :  [18 18  3  0  5] Actual Grade :  19
+Predicted Grade :  6.069351100314236 Student Attribs :  [ 8  6  2  0 18] Actual Grade :  7
+Predicted Grade :  9.179592348084297 Student Attribs :  [10 10  2  0  4] Actual Grade :  10
+Predicted Grade :  3.918805451498658 Student Attribs :  [6 6 2 0 2] Actual Grade :  6
+Predicted Grade :  13.973244953374264 Student Attribs :  [16 14  4  0  6] Actual Grade :  15
+Predicted Grade :  10.75691333896105 Student Attribs :  [11 11  4  0  8] Actual Grade :  10
+Predicted Grade :  9.575455202820907 Student Attribs :  [11 11  4  0  0] Actual Grade :  11
+Predicted Grade :  12.312930051927182 Student Attribs :  [13 13  2  0  0] Actual Grade :  13
+Predicted Grade :  11.789685363275087 Student Attribs :  [12 12  1  0  4] Actual Grade :  13
+Predicted Grade :  5.349340264438991 Student Attribs :  [8 7 2 0 4] Actual Grade :  6
+Predicted Grade :  13.616083030952032 Student Attribs :  [15 14  3  0  2] Actual Grade :  15
+Predicted Grade :  9.640779887159493 Student Attribs :  [11  9  1  1 19] Actual Grade :  10
+Predicted Grade :  21.76376216145065 Student Attribs :  [18 18  1  1 24] Actual Grade :  18
+Predicted Grade :  8.7181450478194 Student Attribs :  [10  9  2  0 10] Actual Grade :  10
+Predicted Grade :  -4.6953716424042495 Student Attribs :  [7 0 3 0 0] Actual Grade :  0
+Predicted Grade :  7.3051146450103115 Student Attribs :  [7 9 4 0 0] Actual Grade :  0
+Predicted Grade :  -5.51134360911067 Student Attribs :  [5 0 1 3 0] Actual Grade :  0
+Predicted Grade :  14.62955846697262 Student Attribs :  [15 14  2  0  8] Actual Grade :  14
+Predicted Grade :  1.547877677007702 Student Attribs :  [6 5 1 2 0] Actual Grade :  0
+Predicted Grade :  18.317492403958063 Student Attribs :  [10  9  2  0 75] Actual Grade :  9
+Predicted Grade :  10.325316440091768 Student Attribs :  [15 12  2  1  0] Actual Grade :  12
+Predicted Grade :  5.435225143069312 Student Attribs :  [7 7 1 0 3] Actual Grade :  8
+Predicted Grade :  7.328211101083133 Student Attribs :  [ 8  8  4  0 10] Actual Grade :  8
+Predicted Grade :  8.461481446098741 Student Attribs :  [10 10  3  0  0] Actual Grade :  9
+Predicted Grade :  6.302918245962074 Student Attribs :  [ 7  6  1  0 18] Actual Grade :  6
+Predicted Grade :  12.654582443197063 Student Attribs :  [11 12  2  0 10] Actual Grade :  13
+Predicted Grade :  8.528965825516718 Student Attribs :  [9 9 2 0 8] Actual Grade :  9
+Predicted Grade :  10.700802941604634 Student Attribs :  [ 8 10  1  0 12] Actual Grade :  10
+Predicted Grade :  19.533183441136025 Student Attribs :  [18 18  1  0  6] Actual Grade :  18
+Predicted Grade :  15.091005767237517 Student Attribs :  [15 15  2  0  2] Actual Grade :  16
+Predicted Grade :  8.044422069179001 Student Attribs :  [8 9 2 0 4] Actual Grade :  10
+Predicted Grade :  14.689455921470126 Student Attribs :  [16 15  2  0  0] Actual Grade :  15
+Predicted Grade :  11.49053377209896 Student Attribs :  [14 12  4  0  6] Actual Grade :  13
+Predicted Grade :  14.668259399286997 Student Attribs :  [15 15  3  0  0] Actual Grade :  15
+Predicted Grade :  8.360983125397167 Student Attribs :  [9 9 1 0 6] Actual Grade :  10
+Predicted Grade :  14.01763287671942 Student Attribs :  [14 14  3  0  4] Actual Grade :  14
+Predicted Grade :  12.608294585962215 Student Attribs :  [13 13  2  0  2] Actual Grade :  11
+Predicted Grade :  15.468468122761783 Student Attribs :  [16 15  4  0  7] Actual Grade :  17
+Predicted Grade :  6.106152098738924 Student Attribs :  [8 8 2 0 0] Actual Grade :  0
+Predicted Grade :  8.635151137249073 Student Attribs :  [8 9 2 0 8] Actual Grade :  10
+Predicted Grade :  15.135393690582672 Student Attribs :  [13 15  1  0  0] Actual Grade :  15
+Predicted Grade :  10.415992220671772 Student Attribs :  [11 11  1  1  6] Actual Grade :  10
+Predicted Grade :  16.332361357875172 Student Attribs :  [16 16  2  0  2] Actual Grade :  16
+Predicted Grade :  8.48457790217156 Student Attribs :  [11  9  3  0 10] Actual Grade :  10
+Predicted Grade :  14.272396544550388 Student Attribs :  [14 14  1  0  4] Actual Grade :  14
+Predicted Grade :  4.470833587254351 Student Attribs :  [ 6  5  1  0 14] Actual Grade :  5
+Predicted Grade :  7.961333213519467 Student Attribs :  [10  8  2  0 14] Actual Grade :  9
+Predicted Grade :  13.056043392985666 Student Attribs :  [15 14  3  2  4] Actual Grade :  15
+Predicted Grade :  6.017046619847616 Student Attribs :  [ 6  6  2  2 22] Actual Grade :  4
+Predicted Grade :  16.272463903377663 Student Attribs :  [15 15  2  0 10] Actual Grade :  15
+Predicted Grade :  13.646861357034522 Student Attribs :  [10 12  2  0 16] Actual Grade :  11
+Predicted Grade :  7.832051445714292 Student Attribs :  [10  9  2  0  4] Actual Grade :  11
+Predicted Grade :  8.656347659432202 Student Attribs :  [9 9 1 0 8] Actual Grade :  10
+Predicted Grade :  8.884227814049261 Student Attribs :  [10 10  2  0  2] Actual Grade :  11
+Predicted Grade :  12.312930051927182 Student Attribs :  [13 13  2  0  0] Actual Grade :  12
+Predicted Grade :  6.9865587098132504 Student Attribs :  [10  9  4  0  0] Actual Grade :  0
+Predicted Grade :  9.51934480546449 Student Attribs :  [ 8 10  1  0  4] Actual Grade :  10
+Predicted Grade :  12.185548218011697 Student Attribs :  [13 13  3  0  0] Actual Grade :  14
+Predicted Grade :  -4.46180449675641 Student Attribs :  [6 0 2 0 0] Actual Grade :  0
+Predicted Grade :  8.946025202436457 Student Attribs :  [11 10  3  0  4] Actual Grade :  11
